@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "496123681959",
+    "project_id": "mypersona-45207",
+    "storage_bucket": "mypersona-45207.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496123681959:android:c7e58566ce453aa84acf82",
+        "android_client_info": {
+          "package_name": "id.ac.stiki.doleno.mypersona"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxRNJxE2MoFQUZmbnYVOYevIx-TH9ddmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
